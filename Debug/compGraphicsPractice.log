@@ -1,1 +1,6 @@
-﻿  compGraphicsPractice.vcxproj -> C:\Users\Chhatra\source\repos\compGraphicsPractice\Debug\compGraphicsPractice.exe
+﻿  main.cpp
+C:\Users\Chhatra\source\repos\compGraphicsPractice\main.cpp(12,11): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Chhatra\source\repos\compGraphicsPractice\main.cpp(35,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Chhatra\source\repos\compGraphicsPractice\main.cpp(37,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Chhatra\source\repos\compGraphicsPractice\main.cpp(39,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  compGraphicsPractice.vcxproj -> C:\Users\Chhatra\source\repos\compGraphicsPractice\Debug\compGraphicsPractice.exe
